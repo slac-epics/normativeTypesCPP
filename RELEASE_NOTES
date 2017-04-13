@@ -1,0 +1,6 @@
+#
+# Release Notes for normativeTypesCPP
+#
+
+R5.1.0-0.1.0	2017-04-13
+	Added build support for SLAC git workflow
