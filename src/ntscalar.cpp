@@ -5,8 +5,8 @@
  */
 
 #define epicsExportSharedSymbols
-#include <pv/ntscalar.h>
-#include <pv/ntutils.h>
+#include "pv/ntscalar.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

@@ -5,9 +5,9 @@
  */
 
 #define epicsExportSharedSymbols
-#include <pv/ntndarrayAttribute.h>
-#include <pv/ntattribute.h>
-#include <pv/ntutils.h>
+#include "pv/ntndarrayAttribute.h"
+#include "pv/ntattribute.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

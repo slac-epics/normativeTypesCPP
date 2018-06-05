@@ -5,8 +5,8 @@
  */
 
 #define epicsExportSharedSymbols
-#include <pv/ntaggregate.h>
-#include <pv/ntutils.h>
+#include "pv/ntaggregate.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

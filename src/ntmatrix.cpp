@@ -5,8 +5,8 @@
  */
 
 #define epicsExportSharedSymbols
-#include <pv/ntmatrix.h>
-#include <pv/ntutils.h>
+#include "pv/ntmatrix.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

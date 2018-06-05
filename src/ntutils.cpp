@@ -5,7 +5,7 @@
  */
 
 #define epicsExportSharedSymbols
-#include <pv/ntutils.h>
+#include "pv/ntutils.h"
 
 using namespace std;
 

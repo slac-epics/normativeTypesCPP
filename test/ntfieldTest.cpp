@@ -12,7 +12,7 @@
 #include <epicsUnitTest.h>
 #include <testMain.h>
 
-#include <pv/nt.h>
+#include "pv/nt.h"
 
 using namespace epics::nt;
 using namespace epics::pvData;

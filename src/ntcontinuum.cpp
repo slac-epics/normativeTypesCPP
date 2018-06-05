@@ -5,8 +5,8 @@
  */
 
 #define epicsExportSharedSymbols
-#include <pv/ntcontinuum.h>
-#include <pv/ntutils.h>
+#include "pv/ntcontinuum.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

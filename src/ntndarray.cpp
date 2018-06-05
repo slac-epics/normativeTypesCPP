@@ -6,12 +6,12 @@
 
 #include <algorithm>
 
-#include <pv/lock.h>
+#include "pv/lock.h"
 
 #define epicsExportSharedSymbols
-#include <pv/ntndarray.h>
-#include <pv/ntndarrayAttribute.h>
-#include <pv/ntutils.h>
+#include "pv/ntndarray.h"
+#include "pv/ntndarrayAttribute.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

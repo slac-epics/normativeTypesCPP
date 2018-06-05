@@ -20,9 +20,9 @@
 #include <testMain.h>
 
 
-#include <pv/nt.h>
-#include <pv/sharedVector.h>
-#include <pv/ntmultiChannel.h>
+#include "pv/nt.h"
+#include "pv/sharedVector.h"
+#include "pv/ntmultiChannel.h"
 
 using namespace epics::pvData;
 using namespace epics::nt;

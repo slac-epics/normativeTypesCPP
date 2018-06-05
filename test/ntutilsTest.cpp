@@ -6,7 +6,7 @@
 #include <epicsUnitTest.h>
 #include <testMain.h>
 
-#include <pv/ntutils.h>
+#include "pv/ntutils.h"
 
 
 using namespace epics::nt;

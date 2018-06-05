@@ -4,10 +4,10 @@
  * found in the file LICENSE that is included with the distribution
  */
 
-#include <pv/lock.h>
+#include "pv/lock.h"
 
 #define epicsExportSharedSymbols
-#include <pv/ntfield.h>
+#include "pv/ntfield.h"
 
 using namespace epics::pvData;
 using std::tr1::static_pointer_cast;

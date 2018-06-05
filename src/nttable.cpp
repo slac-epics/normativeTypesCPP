@@ -7,8 +7,8 @@
 #include <algorithm>
 
 #define epicsExportSharedSymbols
-#include <pv/nttable.h>
-#include <pv/ntutils.h>
+#include "pv/nttable.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;

@@ -4,8 +4,8 @@
  * found in the file LICENSE that is included with the distribution
  */
 
-#include <pv/ntid.h>
-#include <pv/typeCast.h>
+#include "pv/ntid.h"
+#include "pv/typeCast.h"
 
 namespace epics { 
 

@@ -6,8 +6,8 @@
 #include <algorithm>
 
 #define epicsExportSharedSymbols
-#include <pv/ntscalarMultiChannel.h>
-#include <pv/ntutils.h>
+#include "pv/ntscalarMultiChannel.h"
+#include "pv/ntutils.h"
 
 using namespace std;
 using namespace epics::pvData;
