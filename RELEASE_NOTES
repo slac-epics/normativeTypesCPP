@@ -2,6 +2,9 @@
 # Release Notes for normativeTypesCPP
 #
 
+R5.2.0-0.0.2	2018-06-04
+	Update to pvDataCPP/R7.1.0-0.0.1
+
 R5.2.0-0.0.1	2018-01-18
 	Added build support for SLAC git workflow
 
