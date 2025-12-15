@@ -2,9 +2,9 @@
 
 This document summarizes the changes to the module between releases.
 
-## Release UNRELEASED (6.0.2)
+## Release 6.0.2 (EPICS 7.0.10, December 2025)
 
-- Fix possible NULL pointer dereference in `NTNDArray::getValueSize()`
+- Fix potential NULL pointer dereference in `NTNDArray::getValueSize()`
 
 ## Release 6.0.1 (EPICS 7.0.3.1, October 2019)
 
